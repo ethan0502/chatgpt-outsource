@@ -1,0 +1,4 @@
+interface:
+  display_name: "ChatGPT Outsource"
+  short_description: "Delegate token-heavy or advisory work to ChatGPT"
+  default_prompt: "Use $chatgpt-outsource to outsource a safe, self-contained task to ChatGPT and note what must be verified locally."
