@@ -444,4 +444,4 @@ This skill can improve efficiency, but it has strict limits:
 
 ## License
 
-Add the license section that matches how you plan to publish this repository. If you intend this for public GitHub use, leaving the repository without a license will limit reuse.
+MIT. See [LICENSE](/Users/xuyijun/.openclaw/workspace/GitHub-to_publish/chatgpt-outsource/LICENSE).
