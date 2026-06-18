@@ -2,9 +2,6 @@
 
 Use ChatGPT as a bounded external advisor for safe, self-contained tasks such as rewriting, translation, summarization, research, and debugging advice, so coding or work agents can save tokens for local reasoning, execution, and verification while keeping local validation as the final authority.
 
-GitHub description:
-Delegate safe, self-contained advisory tasks to ChatGPT so coding or work agents save tokens for local work, with prompt sanitization and local verification.
-
 ## Files
 
 - `SKILL.md`: the skill definition and operating rules
